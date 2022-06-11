@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+}
+
+.w-h{
+    width: 200px;
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.pink {
+    background-color: pink;
+    position: sticky;
+    top: 20px;
+    left: 10px;
+}
